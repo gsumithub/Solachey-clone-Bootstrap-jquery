@@ -172,7 +172,6 @@ header>nav>a>img{
     transition: 0.3s;
 }
 .discoverSec{
-    max-width: 1410px !important;
     margin: auto;
 }
 .discover-items:hover .discover-content{
@@ -563,4 +562,5 @@ header>nav>a>img{
 .blogcontents:hover{
     background: rgba(0, 0, 0, 0.8);
 }
+
 
